@@ -5,4 +5,5 @@
 
 
 ## Preview:
-[![Kal Talk - Web-Based Chat Application](https://img.youtube.com/vi/Rkud7w7TnBE/0.jpg)](https://www.youtube.com/watch?v=Rkud7w7TnBE)
+https://github.com/user-attachments/assets/7d052246-aff3-41c0-bc1d-83c90850944d
+
